@@ -1,3 +1,13 @@
+<div align="center">
+
+Looking for additional Snyk related tools?
+
+[Snyk Tools](https://docs.snyk.io/scan-using-snyk/snyk-tools) is the new home to find additional Snyk product extensions
+
+<hr/>
+</div>
+
+
 <br/>
 <div align="center">
 
